@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-WebToeicApplication<web-toeic>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.webtoeic.WebToeicApplication",
+            "projectName": "web-toeic",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
