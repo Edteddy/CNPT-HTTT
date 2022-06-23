@@ -132,12 +132,7 @@
 		    <artifactId>javassist</artifactId>
 		    <version>3.25.0-GA</version>
 		</dependency>
-<!-- google -->
-		<dependency>
-		    <groupId>google.cloud.sql</groupId>
-		    <artifactId>mysql-socket-facotry</artifactId>
-		    <version>1.6.1</version>
-		</dependency>
+
 
 	</dependencies>
 
